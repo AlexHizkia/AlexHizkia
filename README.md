@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexHizkia
+- 👋 Hi, I’m Alexander Hizkia
 - 👀 I’m interested in GIS
 - 🌱 I’m currently learning Python for GIS
 - 💞️ I’m looking to collaborate on ...
