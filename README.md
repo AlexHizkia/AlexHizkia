@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Alexander Hizkia
-- 👀 I’m interested in GIS
-- 🌱 I’m currently learning Python for GIS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/alexander-hizkia
+I am GIS Enthusiast
